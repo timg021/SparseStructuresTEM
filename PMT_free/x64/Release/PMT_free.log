@@ -1,0 +1,11 @@
+﻿  IXAHWave.cpp
+  PMT.cpp
+  stdafx.cpp
+  XAHWave.cpp
+  XA_file.cpp
+  XA_ini.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 669 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PMT_free.vcxproj -> C:\Users\tgureyev\Documents\XArray_tests\MultisliceCppTest\000FreeSourcePMT\PMT_free\x64\Release\PMT_free.exe

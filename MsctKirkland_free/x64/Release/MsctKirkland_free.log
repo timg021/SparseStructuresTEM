@@ -1,0 +1,20 @@
+﻿  autoslic.cpp
+  autosliccmd.cpp
+  cfpix.cpp
+  floatTIFF.cpp
+  IXAHWave.cpp
+  MultisliceK.cpp
+  slicelib.cpp
+  stdafx.cpp
+  XAHWave.cpp
+  XA_file.cpp
+  XA_ini.cpp
+  Ooura_fftsg2d_dbl.c
+  Ooura_fftsg2d_flt.c
+  Ooura_fftsg_dbl.c
+  Ooura_fftsg_flt.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1007 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MsctKirkland_free.vcxproj -> C:\Users\tgureyev\Documents\XArray_tests\MultisliceCppTest\000FreeSourcePMT\MsctKirkland_free\x64\Release\MsctKirkland_free.exe

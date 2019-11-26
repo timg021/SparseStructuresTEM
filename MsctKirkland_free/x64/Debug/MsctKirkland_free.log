@@ -1,0 +1,18 @@
+﻿  autoslic.cpp
+  autosliccmd.cpp
+  cfpix.cpp
+  floatTIFF.cpp
+  IXAHWave.cpp
+  MultisliceK.cpp
+  slicelib.cpp
+  stdafx.cpp
+  XAHWave.cpp
+  XA_file.cpp
+  XA_ini.cpp
+  Generating Code...
+  Ooura_fftsg2d_dbl.c
+  Ooura_fftsg2d_flt.c
+  Ooura_fftsg_dbl.c
+  Ooura_fftsg_flt.c
+  Generating Code...
+  MsctKirkland_free.vcxproj -> C:\Users\tgureyev\Documents\XArray_tests\000FreeSourcePMT\MsctKirkland_free\x64\Debug\MsctKirkland_free.exe

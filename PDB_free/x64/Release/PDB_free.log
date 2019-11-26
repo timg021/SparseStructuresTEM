@@ -1,0 +1,7 @@
+﻿  pdb.c
+  pdb_run.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PDB_free.vcxproj -> C:\Users\tgureyev\Documents\XArray_tests\MultisliceCppTest\000FreeSourcePMT\PDB_free\x64\Release\PDB_free.exe

@@ -1,0 +1,7 @@
+﻿  pdb-compare.c
+  pdb.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PDBcompare_free.vcxproj -> C:\Users\tgureyev\Documents\XArray_tests\MultisliceCppTest\000FreeSourcePMT\PDBcompare_free\x64\Release\PDBcompare_free.exe
