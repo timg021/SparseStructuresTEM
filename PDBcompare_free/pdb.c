@@ -31,7 +31,6 @@ ANY OTHER PROGRAM).
 
 /*
  *  pdb.h   : read a pdb file and store data in a structure
- *  A. Martin January 2013
  *
  */
 

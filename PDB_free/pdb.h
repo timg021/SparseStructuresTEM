@@ -31,7 +31,6 @@ ANY OTHER PROGRAM).
 
 /*
  * pdb.h      : reading molecule info from a pdb file
- * A.V. Martin Jan 2013
  *
  * http://www.wwpdb.org/documentation/format33/v3.3.html
  *
